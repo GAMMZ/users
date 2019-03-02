@@ -15,7 +15,7 @@ $we_stat = true;
 $msgwe = "[•] update member ok ".$t.$kuning."[•] untuk menjadi member gunakan kode invite di atas👆👆".$t;
 $donasi=true;
 $msgveeu = "[!] update skrip veeu".$t."[•] git clone https://github.com/adidoank/veeu";
-$data= ['GAMMZ', 'Muhammad Aminuddin',
+$data= ['GAMMZ', 'Muhammad Aminuddin', 'Permana Sapu', 'Permana Saputra',
        ];
 $toto = ['tes',];
 $ydnews = ['tes','adidoank',];
