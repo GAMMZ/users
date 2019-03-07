@@ -18,4 +18,4 @@ $msgveeu = "[!] update skrip veeu".$t."[•] git clone https://github.com/adidoa
 $data= ['GAMMZ', 'Muhammad Aminuddin', 'Permana Sapu', 'Permana Saputra',
        ];
 $toto = ['tes',];
-$ydnews = ['tes','adidoank',];
+$ydnews = ['tes','adidoank',]; 
